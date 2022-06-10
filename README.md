@@ -5,3 +5,10 @@
 우리의 여우친구 WOO를 제너러티브 NFT로 발행하려 합니다.
 
 https://friend-woo.vercel.app/
+
+스마트 컨트랙트 주소
+https://rinkeby.etherscan.io/address/0x1D67c2418A018E60cfD8ae5bf67C66983a1004ebㅅ
+
+오픈씨 주소
+https://testnets.opensea.io/collection/my-friend-woo-v4
+
