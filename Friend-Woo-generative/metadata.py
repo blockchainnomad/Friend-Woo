@@ -13,8 +13,8 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
-# Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://QmQLdd6ctAPn9aq5herXqVpevqbXeSmnjmKruMBGXg8KTs"
+# Base metadata 주소입니다. 이미지를 업로드 한 ipfs 주소로 수정합니다.
+BASE_IMAGE_URL = "ipfs://QmPdw7VgSiFVhhfVf4v2Rx1DoKPRn8KjpfmyeRU4soK6Rg"
 BASE_NAME = "Woo #"
 
 BASE_JSON = {
