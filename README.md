@@ -16,5 +16,5 @@ https://rinkeby.etherscan.io/address/0x1D67c2418A018E60cfD8ae5bf67C66983a1004eb�
 
 https://testnets.opensea.io/collection/my-friend-woo-v4
 
-일러스트 작가 홈페이지
+일러스트 by moonme 작가
 https://www.mmoonme.com/
