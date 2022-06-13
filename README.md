@@ -8,13 +8,20 @@ NFT를 민팅할 때마다 새로운 WOO 이미지가 생성되고 오픈씨 컬
 
 https://friend-woo.vercel.app/
 
+
 스마트 컨트랙트 주소
 
 https://rinkeby.etherscan.io/address/0x1D67c2418A018E60cfD8ae5bf67C66983a1004eb
+
 
 오픈씨 컬렉션 주소
 
 https://testnets.opensea.io/collection/my-friend-woo-v4
 
-일러스트 by moonme 작가
+
+일러스트는 문미 작가님께서 도움주셨습니다.
+
 https://www.mmoonme.com/
+
+
+테스트용이라 기능 및 일러스트가 한정적입니다. 차차 업데이트하겠습니다.
