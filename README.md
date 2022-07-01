@@ -23,3 +23,6 @@ https://testnets.opensea.io/collection/my-friend-woo-v4
 
 https://www.mmoonme.com/
 
+
+https://github.com/boyd-dev/alice-NFT
+https://github.com/rounakbanik/generative-art-nft
