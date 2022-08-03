@@ -18,4 +18,3 @@
 output/edition/ 디렉토리 아래에 json 디렉토리가 생성됩니다.
 
 
-https://github.com/rounakbanik/generative-art-nft 를 참조했습니다.
