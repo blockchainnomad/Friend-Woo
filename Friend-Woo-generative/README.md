@@ -9,8 +9,9 @@
 
 생성할 아바타의 숫자를 입력한 후 edition의 이름을 정해줍니다.
 
-
 3. edition의 메타데이터를 생성합니다.
+
+```metadata.py```의 BASE_NAME, BASE_IMAGE_URL을 입력한 후 다음 명령어를 실행합니다.
 
 ```python metadata.py```
 
