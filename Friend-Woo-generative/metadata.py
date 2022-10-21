@@ -14,7 +14,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata 주소입니다. 이미지를 업로드 한 ipfs 주소로 수정합니다.
-BASE_IMAGE_URL = "ipfs://QmPdw7VgSiFVhhfVf4v2Rx1DoKPRn8KjpfmyeRU4soK6Rg"
+BASE_IMAGE_URL = "https://bafybeict3a2olkq4rvkkkn6kzq55nhve6ab7gpwsk2kbb7q2ijrrftcxky.ipfs.nftstorage.link/"
 BASE_NAME = "Woo #"
 
 BASE_JSON = {
