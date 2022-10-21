@@ -7,7 +7,7 @@ function Footer(props) {
                 SMART CONTRACT ADDRESS:&nbsp;
                 <br />
                 <span>
-                    <a className='contract-link' href={`https://rinkeby.etherscan.io/address/${props.address}`} target='_blank' rel='noreferrer'>
+                    <a className='contract-link' href={`https://goerli.etherscan.io/address/${props.address}`} target='_blank' rel='noreferrer'>
                         {props.address}
                     </a>
                 </span>

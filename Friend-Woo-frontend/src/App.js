@@ -73,7 +73,7 @@ function App() {
         console.log("Mining... please wait");
         await nftTxn.wait();
 
-        console.log(`Mined, see transaction: https://rinkeby.etherscan.io/tx/${nftTxn.hash}`);
+        console.log(`Mined, see transaction: https://goerli.etherscan.io/tx/${nftTxn.hash}`);
         setMineStatus('success');
 
       } else {
@@ -116,7 +116,7 @@ function App() {
 
   return (
     <Fragment>
-      {metamaskError && <div className='metamask-error'>Please make sure you are connected to the Rinkeby Network on Metamask!</div>}
+      {metamaskError && <div className='metamask-error'>Please make sure you are connected to the Goerli Network on Metamask!</div>}
       <div className="App">
 
         <div className='container'>
@@ -140,7 +140,7 @@ function App() {
                 <span>Transaction is mining</span>
               </div>}
               {mineStatus === 'error' && <div className={mineStatus}>
-                <p>Transaction failed. Make sure you have at least 0.01 Rinkeby ETH in your Metamask wallet and try again.</p>
+                <p>Transaction failed. Make sure you have at least 0.01 Goerli ETH in your Metamask wallet and try again.</p>
               </div>}
             </div>
           </div>
