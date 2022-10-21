@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 
 // 상수
-const OPENSEA_LINK = 'https://testnets.opensea.io/collection/my-friend-woo-v4';
+const OPENSEA_LINK = 'https://testnets.opensea.io/collection/my-friend-woo-v6';
 const contractAddress = "0x6aFA606E5cA0101f25BeF619d328c0C701BcA3f0";
 const abi = contract.abi;
 
