@@ -9,7 +9,7 @@ import Header from './components/Header';
 
 // 상수
 const OPENSEA_LINK = 'https://testnets.opensea.io/collection/my-friend-woo-v4';
-const contractAddress = "0x1D67c2418A018E60cfD8ae5bf67C66983a1004eb";
+const contractAddress = "0x6aFA606E5cA0101f25BeF619d328c0C701BcA3f0";
 const abi = contract.abi;
 
 function App() {

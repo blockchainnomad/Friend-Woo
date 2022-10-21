@@ -22,9 +22,9 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
  */
 module.exports = {
   solidity: "0.8.4",
-  defaultNetwork: "rinkeby",
+  defaultNetwork: "goerli",
   networks: {
-    rinkeby: {
+    goerli: {
       url: API_URL,
       accounts: [PRIVATE_KEY]
     }

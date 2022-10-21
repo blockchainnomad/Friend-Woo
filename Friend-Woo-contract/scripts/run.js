@@ -1,7 +1,7 @@
 const { utils } = require("ethers");
 
 async function main() {
-    const baseTokenURI = "ipfs://QmSvgBAdEYFXAiubJYsGCyB8PZHg84hGV51r3ehd1UT6BU/";
+    const baseTokenURI = "https://bafybeict3a2olkq4rvkkkn6kzq55nhve6ab7gpwsk2kbb7q2ijrrftcxky.ipfs.nftstorage.link/";
 
     // Get owner/deployer's wallet address
     const [owner] = await hre.ethers.getSigners();
