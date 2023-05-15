@@ -11,7 +11,7 @@ https://friend-woo.vercel.app/
 
 스마트 컨트랙트 주소
 
-https://rinkeby.etherscan.io/address/0x1D67c2418A018E60cfD8ae5bf67C66983a1004eb
+[https://rinkeby.etherscan.io/address/0x1D67c2418A018E60cfD8ae5bf67C66983a1004eb](https://goerli.etherscan.io/address/0x6aFA606E5cA0101f25BeF619d328c0C701BcA3f0)
 
 
 오픈씨 컬렉션 주소
